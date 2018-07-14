@@ -1,0 +1,6 @@
+C:\Temp\Belatrix.Ebay.UITest\Belatrix.Ebay.API\bin\Debug\Belatrix.Ebay.API.dll
+C:\Temp\Belatrix.Ebay.UITest\Belatrix.Ebay.API\bin\Debug\Belatrix.Ebay.API.pdb
+C:\Temp\Belatrix.Ebay.UITest\Belatrix.Ebay.API\obj\Debug\Belatrix.Ebay.API.csprojAssemblyReference.cache
+C:\Temp\Belatrix.Ebay.UITest\Belatrix.Ebay.API\obj\Debug\Belatrix.Ebay.API.csproj.CoreCompileInputs.cache
+C:\Temp\Belatrix.Ebay.UITest\Belatrix.Ebay.API\obj\Debug\Belatrix.Ebay.API.dll
+C:\Temp\Belatrix.Ebay.UITest\Belatrix.Ebay.API\obj\Debug\Belatrix.Ebay.API.pdb
